@@ -1,0 +1,7 @@
+(ML 4.1) Maximum Likelihood Estimation (MLE) (part 1): 
+	
+	https://www.youtube.com/watch?v=aHwsEXCk4HA
+
+(ML 6.1) Maximum a posteriori (MAP) estimation
+
+	https://www.youtube.com/watch?v=kkhdIriddSI
